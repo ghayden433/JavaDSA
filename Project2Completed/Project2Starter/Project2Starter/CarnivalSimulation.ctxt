@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=CarnivalSimulation
+comment0.text=\r\n\ @author\ Kathleen\ Timmerman,\ modified\ by\ Liz\ Johnson\r\n\ @version\ 2024.02\r\n
+comment1.params=
+comment1.target=void\ start()
+comment1.text=\r\n\ This\ starts\ the\ simulation.\r\n\ It\ initializes\ the\ ride,\ loads\ the\ starting\ events\ of\ people\ arriving,\ and\r\n\ dequeues\ the\ next\ events\ from\ the\ heap.\ Once\ there\ are\ no\ more\ events\ in\ the\ queue,\r\n\ this\ method\ will\ print\ the\ number\ of\ people\ who\ left\ early\ and\ the\ simulation\ ends.\r\n
+comment2.params=p
+comment2.target=void\ findARide(Person)
+comment2.text=\r\n\ This\ method\ randomly\ choose\ a\ new\ ride\ for\ the\ person.\r\n\ If\ the\ ride\ they\ find\ has\ no\ one\ else\ in\ line\ and\ the\ ride\ isn't\ currently\ running,\r\n\ a\ START_RIDE\ event\ will\ be\ created.\r\n\ @param\ p\ \r\n
+comment3.params=
+comment3.target=void\ loadPeople()
+comment3.text=\r\n\ Use\ the\ file\ personFile.txt\ to\ load\ arrival\ times\ and\ lengths\ of\ visit.\r\n\ Each\ line\ in\ file\ will\ create\ a\ ARRIVE_AT_CARNIVAL\ event.\r\n
+numComments=4

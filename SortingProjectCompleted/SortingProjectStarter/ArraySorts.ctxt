@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=ArraySorts
+comment0.text=\r\n\ Sorting\ algorithms\ for\ arrays.\r\n\r\n\ @author\ Hayden\ Gillen\r\n\ @version\ 1/26\r\n
+comment1.params=
+comment1.target=ArraySorts()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ ArraySorts\r\n
+comment2.params=arr
+comment2.target=void\ selectionSort(int[])
+comment2.text=\r\n\ Sorts\ arr\ using\ selection\ sort.\r\n\ @param\ arr\ array\ to\ be\ sorted\r\n
+comment3.params=arr
+comment3.target=void\ insertionSort(int[])
+comment3.text=\r\n\ Sorts\ arr\ using\ insertion\ sort\r\n\ @param\ list\ arr\ to\ be\ sorted\r\n
+comment4.params=arr\ startIndex\ endIndex
+comment4.target=int\ findSmallest(int[],\ int,\ int)
+comment4.text=\r\n\ Searches\ arr\ from\ startIndex\ up\ to\ (but\ not\ including)\ endIndex\ to\r\n\ find\ the\ smallest\ element\r\n\ @param\ arr\ array\ to\ be\ searched\r\n\ @param\ startIndex\ beginning\ of\ range\ of\ indices\ (inclusive)\r\n\ @param\ endIndex\ end\ of\ range\ of\ indices\ (exclusive)\r\n\ @return\ index\ of\ smallest\ element\ in\ arr[startIndex\:endIndex-1]\r\n
+comment5.params=arr\ i\ j
+comment5.target=void\ swap(int[],\ int,\ int)
+comment5.text=\r\n\ Swaps\ the\ elements\ at\ index\ i\ and\ j\ in\ arr\r\n\ @param\ arr\ array\ of\ interest\r\n\ @param\ i\ index\ of\ first\ element\r\n\ @param\ j\ index\ of\ second\ element\r\n
+comment6.params=arr
+comment6.target=java.lang.String\ getArrayString(int[])
+comment6.text=\r\n\ Builds\ a\ string\ representing\ array\ arr\r\n\ @param\ arr\ array\ to\ be\ processed\r\n\ @return\ a\ string\ representation\ of\ array\ arr\ as\ "[\ n1\ n2\ n3\ ]"\r\n
+numComments=7

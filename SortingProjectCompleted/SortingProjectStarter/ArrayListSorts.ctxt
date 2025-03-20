@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=ArrayListSorts
+comment0.text=\r\n\ Sorting\ algorithms\ for\ ArrayLists.\r\n\r\n\ @author\ Hayden\ Gillen\r\n\ @version\ 1/26\r\n
+comment1.params=
+comment1.target=ArrayListSorts()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ ArrayListSorts\r\n
+comment2.params=list
+comment2.target=void\ selectionSort(java.util.ArrayList)
+comment2.text=\r\n\ Sorts\ the\ list\ using\ selection\ sort\r\n\ @param\ list\ ArrayList\ to\ be\ sorted\r\n
+comment3.params=list
+comment3.target=void\ radixSort(java.util.ArrayList)
+comment3.text=\r\n\ Sorts\ the\ list\ using\ radix\ sort\r\n\ @param\ list\ ArrayList\ to\ be\ sorted\r\n
+comment4.params=list\ startIndex\ endIndex
+comment4.target=int\ findSmallest(java.util.ArrayList,\ int,\ int)
+comment4.text=\r\n\ Searches\ list\ from\ startIndex\ up\ to\ (but\ not\ including)\ endIndex\ to\r\n\ find\ the\ smallest\ element\r\n\ @param\ list\ arraylist\ to\ be\ searched\r\n\ @param\ startIndex\ beginning\ of\ range\ of\ indices\ (inclusive)\r\n\ @param\ endIndex\ end\ of\ range\ of\ indices\ (exclusive)\r\n\ @return\ index\ of\ smallest\ element\ in\ list[startIndex\:endIndex-1]\r\n
+comment5.params=list\ i\ j
+comment5.target=void\ swap(java.util.ArrayList,\ int,\ int)
+comment5.text=\r\n\ Swaps\ the\ elements\ at\ index\ i\ and\ j\ in\ list\r\n\ @param\ list\ arraylist\ of\ interest\r\n\ @param\ i\ index\ of\ first\ element\r\n\ @param\ j\ index\ of\ second\ element\r\n
+comment6.params=list
+comment6.target=java.lang.String\ getArrayListString(java.util.ArrayList)
+comment6.text=\r\n\ Builds\ a\ string\ representing\ arraylist\ list\r\n\ @param\ list\ arraylist\ to\ be\ processed\r\n\ @return\ a\ string\ representation\ of\ arraylist\ list\ as\ "[\ n1\ n2\ n3\ ]"\r\n
+comment7.params=list
+comment7.target=int\ getRadixMaxDigits(java.util.ArrayList)
+comment7.text=\r\n\ finds\ the\ greatest\ length\ integer\ in\ the\ list\ and\ returns\ it's\ length\r\n\ @param\ list\ arraylist\ of\ interest\r\n
+numComments=8

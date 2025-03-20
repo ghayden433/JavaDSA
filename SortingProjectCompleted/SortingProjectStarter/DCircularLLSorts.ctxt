@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=DCircularLLSorts
+comment0.text=\r\n\ Sorts\ for\ linked\ list\r\n\r\n\ @author\ Hayden\ Gillen\r\n\ @version\ 1/24\r\n
+comment1.params=
+comment1.target=DCircularLLSorts()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ DLLSorts\r\n
+comment2.params=list
+comment2.target=void\ insertionSort(DCircularLL)
+comment2.text=\r\n\ Insertion\ Sort\ on\ doubly-linked\ circular\ list\r\n\ @param\ list\ list\ to\ be\ sorted\r\n
+comment3.params=list
+comment3.target=void\ radixSort(DCircularLL)
+comment3.text=\r\n\ Radix\ Sort\ on\ doubly-linked\ circular\ list\r\n\ @param\ list\ list\ to\ be\ sorted\r\n
+comment4.params=list
+comment4.target=int\ listLength(DCircularLL)
+comment4.text=\r\n\ find\ list\ length\r\n\ @param\ list\ list\ to\ be\ counted\r\n
+comment5.params=node1\ node2
+comment5.target=void\ swap(Node,\ Node)
+comment5.text=\r\n\ swap\ provided\ nodes'\ values\r\n\ @param\ 2\ Nodes\ to\ be\ swapped\r\n
+comment6.params=list
+comment6.target=int\ getRadixMaxDigits(DCircularLL)
+comment6.text=\r\n\ finds\ the\ greatest\ length\ integer\ in\ the\ list\ and\ returns\ it's\ length\r\n\ @param\ list\ linked\ list\ to\ be\ searched\r\n
+numComments=7

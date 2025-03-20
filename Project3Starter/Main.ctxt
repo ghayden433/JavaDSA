@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=Main
+comment0.text=\n\ This\ is\ the\ driver\ class.\n\ Note\ that\ it\ should\ NEVER\ interact\ with\ the\ Record\ class.\n\n\ HashTable220.java\ is\ your\ implementation\ Hash\ Table.\n\ Record.java\ is\ a\ record\ object\ that\ is\ stored\ in\ the\ hash\ table.\n\n\ Links\ between\ classes\n\ The\ hash\ table\ has\ an\ array\ of\ Records.\n\ Each\ Record\ holds\ a\ (key,\ value)\ pair\n\n\ @author\ Katie\ Timmerman\ and\ Liz\ Johnson\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=
+comment2.target=void\ testingHashTable()
+comment2.text=\n\ Code\ to\ test\ your\ HashTable\ 220\ implementation\n
+comment3.params=
+comment3.target=void\ runAnalysis()
+comment3.text=\n\ Function\ to\ do\ analysis\n
+numComments=4

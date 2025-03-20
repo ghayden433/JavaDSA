@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Node
+comment0.text=\n\ This\ is\ a\ Node\ class\ to\ be\ used\ in\ the\ linked\ list.\n\ Everything\ is\ public\ in\ order\ to\ simplify\ the\ code\ that\n\ uses\ this\ class.\n\n\ @author\ Katie\ Timmerman\ (modified\ by\ Liz\ Johnson)\n\ @version\ 1/24\n
+comment1.params=value
+comment1.target=Node(int)
+comment1.text=\n\ Constructor\ for\ Node\n\ @param\ value\ value\ contained\ in\ Node\n
+comment2.params=prev\ value\ next
+comment2.target=Node(Node,\ int,\ Node)
+comment2.text=\n\ Constructor\ for\ Node\n\ @param\ prev\ previous\ pointer\n\ @param\ value\ value\ contained\ in\ Node\n\ @param\ next\ next\ pointer\n
+numComments=3
