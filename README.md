@@ -13,4 +13,10 @@ These are the data structures and algorithms within each directory
   - Doubly-Linked Circular List
   - Insertion and Radix Sorts on Doubly-Linked Circular List
 - **Project2**
-  - 
+  - Queue
+    - in the Pline Class, built upon a linked list
+  - Heap
+- **Project3**
+  - Hash Map
+    - used linear, exponential, and double hash probing, double hash is implementd in the version posted
+    - uses a mid square hash and open addressing
