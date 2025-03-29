@@ -20,3 +20,5 @@ These are the data structures and algorithms within each directory
   - Hash Map
     - used linear, exponential, and double hash probing, double hash is implementd in the version posted
     - uses a mid square hash and open addressing
+
+This Project was written in BlueJ where there is a default user interface so there is no main java file
